@@ -26,4 +26,6 @@
 # Resources
 
 
-Code example from here: https://gist.github.com/jcyktor/018780dc65e3354c5606
+https://gist.github.com/jcyktor/018780dc65e3354c5606
+
+https://gist.github.com/benhosmer/2521596
