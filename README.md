@@ -5,7 +5,7 @@
 
 ---
 
-Task List:
+# Task List:
 - [x] Create GitHub account
 - [x] Download GitHub Desktop
 - [x] Join ksu-is/is3020su19
