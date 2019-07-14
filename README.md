@@ -3,6 +3,8 @@
 
 #### Created: 7/13/2019
 
+---
+
 Task List:
 - [x] Create GitHub account
 - [x] Download GitHub Desktop
